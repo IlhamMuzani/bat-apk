@@ -4,8 +4,8 @@ class Constant {
     companion object {
 
 //        var IP: String = "http://192.168.2.138/bat/"
-        var IP: String = "http://192.168.2.164/bat/"
-//        var IP: String = "https://bat.id/"
+//        var IP: String = "http://192.168.2.164/bat/"
+        var IP: String = "https://batlink.id/"
         var IP_IMAGE: String = IP + "public/storage/uploads/"
 
         const val LOCATION_PERMISSION_REQUEST_CODE = 1;
